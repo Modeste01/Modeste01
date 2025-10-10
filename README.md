@@ -58,7 +58,7 @@ Check my repos for the latest experiments *works in progress always welcome!*
 
 ## 📬 Let’s Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/modeste-mahouna-h-05016031a)
-[![Email](https://img.shields.io/badge/Email-modeste01@email.com-green)](mailto:modestehouenoum@email.com)
+[![Email](https://img.shields.io/badge/Email-modeste01@email.com-green)](mailto:modestehouenoum@gmail.com)
 
 ---
 
