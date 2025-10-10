@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![WSU & Machine Learning Banner](https://img.shields.io/badge/Exploring%20Software Systems%20%20AI%20at%20WSU-red)
+![Software - Data - AI — Open to Possibilities](https://img.shields.io/badge/Software_%7C_AI_Engineer-in_progress-blueviolet)
 
 # 👋 Hey there, I'm Modeste!
 Curiosity, creativity, and code are my fuel. Welcome to my digital sandbox!
