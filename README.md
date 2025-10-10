@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Software - Data - AI — Open to Possibilities](https://img.shields.io/badge/Software_%7C_AI_Engineer-in_progress-blueviolet)
+![Software – Data – AI — Open to Possibilities](https://img.shields.io/badge/Software_–_Data_–_AI_—_Open_to_Possibilities-blueviolet)
+
 
 # 👋 Hey there, I'm Modeste!
 Curiosity, creativity, and code are my fuel. Welcome to my digital sandbox!
@@ -57,7 +58,7 @@ Check my repos for the latest experiments *works in progress always welcome!*
 
 ## 📬 Let’s Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/modeste-mahouna-h-05016031a)
-[Email](mailto:modeste01@email.com)
+[![Email](https://img.shields.io/badge/Email-modeste01@email.com-green)](mailto:modestehouenoum@email.com)
 
 ---
 
