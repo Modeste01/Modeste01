@@ -1,7 +1,3 @@
-## Hi there 👋, I'm Modeste Houenou
-
-
-
 <!--
 **Modeste01/Modeste01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,15 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![WSU & Machine Learning Banner](https://img.shields.io/badge/Exploring%20AI%20at%20WSU-red)
+![WSU & Machine Learning Banner](https://img.shields.io/badge/Exploring%20Software Systems%20%20AI%20at%20WSU-red)
 
-# 👋 Hey, I'm Modeste!
-Curiosity, creativity, and code are my fuel—welcome to my digital sandbox.
+# 👋 Hey there, I'm Modeste!
+Curiosity, creativity, and code are my fuel. Welcome to my digital sandbox!
 
 ---
 
 ## 💡 Who Am I?
-- Senior at Washington State University, exploring the frontiers of machine learning, scalable software systems, and how code can shape the world.
+- Senior at Washington State University, exploring the frontiers of scalable software systems, machine learning and how code can shape the world.
 - I believe every dataset tells a story, and every algorithm is a tool for discovery.
 
 ---
@@ -33,34 +29,34 @@ Curiosity, creativity, and code are my fuel—welcome to my digital sandbox.
 ## 🚀 What Lights Me Up?
 - Turning data into insight: finding patterns that matter, making sense of noise.
 - Building apps and games that make people think, smile, and solve real problems.
-- Collaborative, fast-paced hackathons—where imagination meets deadlines.
+- Collaborative, fast-paced hackathons where imagination meets deadlines.
 
 ---
 
-## 🛠 Current Projects & Experiments
+## 🛠 Selected Past Projects & Experiments
 - **Roadway Risk Radar:** Making streets safer with Python.
 - **Genre Guru:** Training machines to understand the language of music.
-- **Oasis Game:** Lost in the Sahara, surviving with code—and a team of friends.
+- **Oasis Game:** Lost in the Sahara, surviving with code and a team of friends.
 
-Check my repos for the latest experiments—*works in progress always welcome!*
+Check my repos for the latest experiments *works in progress always welcome!*
 
 ---
 
 ## 🌱 What I’m Learning
-- Making AI more accessible & ethical.
 - C++, Python—bridging high-performance code with creative solutions.
+- Developing AI and making it more accessible & ethical.
 - Better ways to work and learn together.
 
 ---
 
 ## 🎮 Fun Facts
-- Once built a spreadsheet app because Excel felt *too boring*—now my friends use it for budgeting pizza nights.
-- I make playlists for ML models, hoping one day they’ll dance to their own predictions.
+- Once built a spreadsheet app because Excel felt *too boring*.
+
 
 ---
 
 ## 📬 Let’s Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/modeste01)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/modeste-mahouna-h-05016031a)
 [Email](mailto:modeste01@email.com)
 
 ---
