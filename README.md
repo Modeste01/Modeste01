@@ -44,7 +44,7 @@ Check my repos for the latest experiments *works in progress always welcome!*
 ---
 
 ## 🌱 What I’m Learning
-- C++, Python—bridging high-performance code with creative solutions.
+- HTML, CSS, JavaScript, C++, Python - bridging high-performance code with creative solutions.
 - Developing AI and making it more accessible & ethical.
 - Better ways to work and learn together.
 
