@@ -13,56 +13,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Software – Data – AI — Open to Possibilities](https://img.shields.io/badge/Software_–_Data_–_AI_—_Open_to_Possibilities-blueviolet)
+## Modeste Houenou
 
+CS senior at Washington State University (graduating May 2026). I build backend systems, applied ML pipelines, and work with AI coding agents to ship fast.
 
-# 👋 Hey there, I'm Modeste!
-Curiosity, creativity, and code are my fuel. Welcome to my digital sandbox!
+### Recent Work
 
----
+- **Sports IoT Backend** – Real-time event streaming platform using FastAPI, PostgreSQL (LISTEN/NOTIFY), WebSockets, and Docker. Event-driven architecture handling concurrent IoT device connections.
+- **Music Genre Classification** – 10-genre classifier with 92.6% accuracy, benchmarking three ML architectures and comparing performance tradeoffs.
+- **Spreadsheet Expression Engine** – Custom parser using Shunting Yard algorithm with DFS cycle detection and Observer pattern for formula evaluation.
+- **AR Campus Navigator** – Mobile AR application with Gemini AI integration. Shipped end-to-end in 24 hours as CrimsonCode 2026 hackathon project.
 
-## 💡 Who Am I?
-- Senior at Washington State University, exploring the frontiers of scalable software systems, machine learning and how code can shape the world.
-- I believe every dataset tells a story, and every algorithm is a tool for discovery.
+### Team Projects (Available on Request)
 
----
+- Capstone: Sports IoT Backend — contributor
+- CptS 489 Software Engineering — contributor
 
-## 🚀 What Lights Me Up?
-- Turning data into insight: finding patterns that matter, making sense of noise.
-- Building apps and games that make people think, smile, and solve real problems.
-- Collaborative, fast-paced hackathons where imagination meets deadlines.
+### Skills
 
----
+Python, FastAPI, PostgreSQL, WebSockets, Docker, Machine Learning, JavaScript, C, C++, Git, CI/CD
 
-## 🛠 Selected Past Projects & Experiments
-- **Roadway Risk Radar:** Making streets safer with Python.
-- **Genre Guru:** Training machines to understand the language of music.
-- **Oasis Game:** Lost in the Sahara, surviving with code and a team of friends.
+### Connect
 
-Check my repos for the latest experiments *works in progress always welcome!*
-
----
-
-## 🌱 What I’m Learning
-- HTML, CSS, JavaScript, C++, Python - bridging high-performance code with creative solutions.
-- Developing AI and making it more accessible & ethical.
-- Better ways to work and learn together.
-
----
-
-## 🎮 Fun Facts
-- Once built a spreadsheet app because Excel felt *too boring*.
-
-
----
-
-## 📬 Let’s Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/modeste-mahouna-h-05016031a)
-[![Email](https://img.shields.io/badge/Email-green)](mailto:modestehouenoum@gmail.com)
-
----
-
-> *“Every bug hides a lesson. Every challenge is a new adventure. Let’s code something tomorrow never saw coming!”*
+[LinkedIn](linkedin/in/modeste-m) | [Email](mailto:modestehouenoum@gmail.com)
 
 
 
