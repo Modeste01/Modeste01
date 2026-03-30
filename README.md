@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Modeste Houenou
 
 CS + Math senior at Washington State University (graduating May 2026). I build backend systems, applied ML pipelines, and work with AI coding agents to ship fast.
 
